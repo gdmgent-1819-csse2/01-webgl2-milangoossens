@@ -4,6 +4,7 @@ export default class Application
 {
     constructor()
     {
+        //Test Vector 2
         console.info('WebGL2 Demo')
         const v1 = new Vector2
         const v2 = new Vector2(1.5, 2.5)
